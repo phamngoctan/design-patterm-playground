@@ -1,5 +1,5 @@
 package com.designpattern.playground;
 
-public class ToBeDeletedClass {
+public class ToBeDeletedTestClass {
 
 }

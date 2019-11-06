@@ -11,6 +11,8 @@ There are many cases needed to be considered when implementing the singleton pat
 ## Abstract factory pattern
 ## ...
 
+## Miscellaneous
+
 # Notes
 This repo reflects author idea about the design pattern. There is no right or wrong. Just the IDEA.
 
